@@ -1,0 +1,485 @@
+<!doctype html>
+<html lang="en-GB">
+	<head>
+		<meta charset="UTF-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	    <meta name="author" content="Carswell Gould">
+		<link rel="profile" href="https://gmpg.org/xfn/11">
+		<link rel="icon" href="https://www.thewp-group.co.uk/wp-content/themes/wpgroup/img/favicon.png">
+
+		
+	<!-- This site is optimized with the Yoast SEO plugin v14.0.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Airports - WP Group</title>
+	<meta name="description" content="Leading provider of airside ground refuelling solutions, utilising advanced vehicle recognition and fleet management technology" />
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.thewp-group.co.uk/sector/airports/" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Airports - WP Group" />
+	<meta property="og:description" content="Leading provider of airside ground refuelling solutions, utilising advanced vehicle recognition and fleet management technology" />
+	<meta property="og:url" content="https://www.thewp-group.co.uk/sector/airports/" />
+	<meta property="og:site_name" content="WP Group" />
+	<meta property="article:modified_time" content="2020-04-16T15:34:38+00:00" />
+	<meta property="og:image" content="https://www.thewp-group.co.uk/wp-content/uploads/2020/02/og-tag-social-image.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.thewp-group.co.uk/#website","url":"https://www.thewp-group.co.uk/","name":"WP Group","description":"Fuelling change","potentialAction":[{"@type":"SearchAction","target":"https://www.thewp-group.co.uk/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"WebPage","@id":"https://www.thewp-group.co.uk/sector/airports/#webpage","url":"https://www.thewp-group.co.uk/sector/airports/","name":"Airports - WP Group","isPartOf":{"@id":"https://www.thewp-group.co.uk/#website"},"datePublished":"2019-07-18T16:03:21+00:00","dateModified":"2020-04-16T15:34:38+00:00","description":"Leading provider of airside ground refuelling solutions, utilising advanced vehicle recognition and fleet management technology","inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://www.thewp-group.co.uk/sector/airports/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//stackpath.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="WP Group &raquo; Feed" href="https://www.thewp-group.co.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="WP Group &raquo; Comments Feed" href="https://www.thewp-group.co.uk/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.thewp-group.co.uk\/wp-core\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.1"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.thewp-group.co.uk/wp-core/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.thewp-group.co.uk/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='https://www.thewp-group.co.uk/wp-content/plugins/cookie-notice/css/front.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='css-css'  href='https://www.thewp-group.co.uk/wp-content/themes/wpgroup/style.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='Fontawesome-css'  href='https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='Merriweather-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A300&#038;display=swap&#038;ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='Lato-css'  href='https://fonts.googleapis.com/css?family=Lato%3A400%2C700&#038;display=swap&#038;ver=5.4.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.thewp-group.co.uk/wp-core/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.thewp-group.co.uk/wp-core/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"https:\/\/www.thewp-group.co.uk\/wp-core\/wp-admin\/admin-ajax.php","nonce":"29cac78877","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"1","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1","coronabarActive":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thewp-group.co.uk/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.3.1'></script>
+<script type='text/javascript' src='https://www.thewp-group.co.uk/wp-content/themes/wpgroup/advanced-search/js/scripts.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPAS_Ajax = {"ajaxurl":"https:\/\/www.thewp-group.co.uk\/wp-core\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thewp-group.co.uk/wp-core/wp-admin/admin-ajax.php?ver=1'></script>
+<link rel='https://api.w.org/' href='https://www.thewp-group.co.uk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.thewp-group.co.uk/wp-core/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.thewp-group.co.uk/wp-core/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.1" />
+<link rel='shortlink' href='https://www.thewp-group.co.uk/?p=818' />
+<link rel="alternate" type="application/json+oembed" href="https://www.thewp-group.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thewp-group.co.uk%2Fsector%2Fairports%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.thewp-group.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thewp-group.co.uk%2Fsector%2Fairports%2F&#038;format=xml" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<style type="text/css" id="wp-custom-css">
+			.basic-page__strip .btn {
+	color: black;
+}
+
+img.aligncenter {
+	display: block;
+	margin: 0 auto;
+}
+
+@media (max-width: 600px) {
+	.single-sector .content {
+		margin-top: 0;
+	}
+}		</style>
+		
+	</head>
+
+	<nav id="overlay-menu">
+        <div class="container">
+            <svg id="close-menu">
+                <path d="M 10,10 L 30,30 M 30,10 L 10,30" />
+            </svg>
+        </div>
+        <div class="mega-menu">
+        	<div class="mega-menu__column">
+                <div>
+                    <p class="mega-menu__subtitle">About WP Group</p>
+        		    <div class="menu-main-menu-1-container"><ul id="menu-main-menu-1" class="menu"><li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a href="https://www.thewp-group.co.uk/why-work-with-us/">Why work with us</a></li>
+<li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="https://www.thewp-group.co.uk/how-we-are-fuelling-change/">How we are fuelling change</a></li>
+<li id="menu-item-416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-416"><a href="https://www.thewp-group.co.uk/our-products/">Products, technologies and services</a></li>
+<li id="menu-item-1182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1182"><a href="https://www.thewp-group.co.uk/how-we-are-fuelling-change/hvo-fuels/">Hydrotreated Vegetable Oil (HVO)</a></li>
+<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="https://www.thewp-group.co.uk/contact-us/">Contact us</a></li>
+<li id="menu-item-381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-381"><a href="https://www.thewp-group.co.uk/careers/">Careers</a></li>
+</ul></div>                </div>
+        	</div>
+        	<div class="mega-menu__column">
+                <div>
+                    <p class="mega-menu__subtitle">Sectors</p>
+        		    <div class="menu-main-menu-2-container"><ul id="menu-main-menu-2" class="menu"><li id="menu-item-1314" class="menu-item menu-item-type-post_type menu-item-object-sector menu-item-1314"><a href="https://www.thewp-group.co.uk/sector/construction/">Construction</a></li>
+<li id="menu-item-1487" class="menu-item menu-item-type-post_type menu-item-object-sector menu-item-1487"><a href="https://www.thewp-group.co.uk/sector/fleet/">Transport &#038; Fleet</a></li>
+<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-sector menu-item-86"><a href="https://www.thewp-group.co.uk/sector/energy/">Energy &#038; Power</a></li>
+<li id="menu-item-1259" class="menu-item menu-item-type-post_type menu-item-object-sector current-menu-item menu-item-1259"><a href="https://www.thewp-group.co.uk/sector/airports/" aria-current="page">Airports</a></li>
+<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-sector menu-item-85"><a href="https://www.thewp-group.co.uk/sector/marine/">Ports &#038; Marine</a></li>
+<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-sector menu-item-84"><a href="https://www.thewp-group.co.uk/sector/agricultural/">Agricultural</a></li>
+</ul></div>                </div>
+        	</div>
+        	<div class="mega-menu__column">
+                <div>
+                    <p class="mega-menu__subtitle">Content hub</p>
+        		    <div class="menu-main-menu-3-container"><ul id="menu-main-menu-3" class="menu"><li id="menu-item-42" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42"><a href="/hub?type=casestudy">Case studies</a></li>
+<li id="menu-item-106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106"><a href="/news">News</a></li>
+<li id="menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107"><a href="/hub?type=blogposts">Blog</a></li>
+</ul></div>                </div>
+        	</div>
+        </div>
+    </nav>
+        <header>
+        <div class="container">
+            <a href="/"><img src="https://www.thewp-group.co.uk/wp-content/themes/wpgroup/img/logo-white.png" class="logo"></a>
+            <div class="buttons">
+                <a class="buttons__contact btn--hover" href="/contact-us">Contact us</a>
+                <a href="/hub"><i id="open-search" class="buttons__search fa fa-search"></i></a>
+                <div id="open-menu">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                </div>
+                <!-- <svg id="open-menu">
+                    <path d="M4,10h24c1.104,0,2-0.896,2-2s-0.896-2-2-2H4C2.896,6,2,6.896,2,8S2.896,10,4,10z M28,14H4c-1.104,0-2,0.896-2,2  s0.896,2,2,2h24c1.104,0,2-0.896,2-2S29.104,14,28,14z M28,22H4c-1.104,0-2,0.896-2,2s0.896,2,2,2h24c1.104,0,2-0.896,2-2  S29.104,22,28,22z"/>
+                </svg> -->
+            </div>
+        </div>
+    </header>
+
+<body class="sector-template-default single single-sector postid-818 cookies-not-set">
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KCXKGV8"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+	
+<div class="hero" style="background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)), url('https://www.thewp-group.co.uk/wp-content/uploads/2019/07/aviation-1.jpg')">
+	<div class="container hero__title">
+				<div class="hero__bar"></div>
+					<h1 id="hero-title">Airside ground fuel & services provider</h1>
+			</div>
+</div>
+	
+	<div class="container">
+		<div class="grid">
+			<div class="content text-width-full">
+				<p><p>&nbsp;</p>
+<p><img class=" wp-image-1199 aligncenter" src="http://www.thewp-group.co.uk/wp-content/uploads/2020/02/AE-Logo-Strap-Low-Wing-PNG-300x57.png" alt="" width="337" height="64" srcset="https://www.thewp-group.co.uk/wp-content/uploads/2020/02/AE-Logo-Strap-Low-Wing-PNG-300x57.png 300w, https://www.thewp-group.co.uk/wp-content/uploads/2020/02/AE-Logo-Strap-Low-Wing-PNG-768x147.png 768w, https://www.thewp-group.co.uk/wp-content/uploads/2020/02/AE-Logo-Strap-Low-Wing-PNG.png 778w" sizes="(max-width: 337px) 100vw, 337px" /></p>
+<p class="section-title">Leading provider of airside ground refuelling solutions, utilising advanced vehicle recognition and fleet management technology</p>
+<hr />
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: center;">Our work with the UK’s busiest transport hubs sees us continually develop visionary solutions that build sustainability, add-value and drive efficiency into operations.</p>
+<p style="text-align: center;">
+<p style="text-align: center;">A leading supplier of ground fuels to UK airports both airside and landside, we specialise in the supply of high quality fuels and sustainable alternatives supported by advanced technology solutions to simplify fuel management whilst considering environmental impact.</p>
+</p>
+											</div>
+		</div>
+	</div>
+
+	
+
+	<div class="basic-page">
+		
+
+<div class="basic-page__strip" style="background-color: #ffffff">
+	<div class="container grid">
+		<div class="col1">
+			<p><span class="section-subtitle">Fuelling Change across UK Airports</span></p>
+<ul>
+<li>Airport Energy Services supports total ground fuel management across the busiest UK airports, including Heathrow, Gatwick, Stansted and Edinburgh</li>
+<li>Dedicated airport focus, knowledge and experience enables the delivery of a high quality and consistently reliable fuel and fleet service to airside located customers 24/7/365</li>
+<li>Fuelling Change is embedded in our best practice management tools that ensure optimal planning, effective management and successful delivery of fuelling solutions</li>
+</ul>
+<p>&nbsp;</p>
+<p><a class="btn btn--hover" href=" http://www.thewp-group.co.uk/blog/fuelling-change-across-uk-airports/">Read more</a></p>
+		</div>
+		<div class="col2 col-image" style="background-image: url('https://www.thewp-group.co.uk/wp-content/uploads/2020/01/blog-airport.jpg')">
+					</div>
+	</div>
+</div>
+<div class="basic-page__strip" style="background-color: #f7f7f7">
+	<div class="container grid">
+		<div class="col3 col-image" style="background-image: url('https://www.thewp-group.co.uk/wp-content/uploads/2020/02/AE-Heathrow-4LR-900x510.jpg')">
+					</div>
+		<div class="col4">
+			<p><span class="section-subtitle">Products</span></p>
+<p>&nbsp;</p>
+<p>Our comprehensive range of standard, alternative and renewable fuel products ensures our customers have access to the right solution to meet their operational requirement &amp; business objectives.</p>
+<ul>
+<li>Red Diesel (Ultra Low Sulphur Gas Oil BS EN 2869)</li>
+<li>Road Diesel (Ultra Low Sulphur Diesel BS EN 590)</li>
+<li>Renewable &amp; Alternative Fuels: <a href="https://www.thewp-group.co.uk/how-we-are-fuelling-change/hvo-fuels/">Hydrotreated Vegetable Oil (HVO)</a> &amp; Gas-to-Liquid (GTL)</li>
+<li>Unleaded Petrol (Unleaded 95 Gasoline BS EN228)</li>
+<li>Adblue</li>
+</ul>
+<p>&nbsp;</p>
+<p><a class="btn btn--hover" href="https://www.thewp-group.co.uk/how-we-are-fuelling-change/hvo-fuels/">Read more</a></p>
+		</div>
+	</div>
+</div>
+
+<div class="basic-page__strip" style="background-color: #ffffff">
+	<div class="container grid">
+		<div class="col1">
+			<p><span class="section-subtitle">Industry-Leading Technology</span></p>
+<p>&nbsp;</p>
+<ul>
+<li>A comprehensive market leading fuel management system providing total fuel site automation &amp; real-time data analysis</li>
+<li>A fully automated end to end solution for both fixed sites and mobile applications allows you to track the journey of every litre on-site</li>
+<li>Utilising a vehicle recognition system enables the fastest and simplest secure refuelling</li>
+</ul>
+<p>&nbsp;</p>
+<p><a class="btn btn--hover" href="https://www.thewp-group.co.uk/blog/airport-energy-products-and-technology/">Read more</a></p>
+		</div>
+		<div class="col2 col-image" style="background-image: url('https://www.thewp-group.co.uk/wp-content/uploads/2019/07/AE-Technology-Picture-900x510.jpg')">
+					</div>
+	</div>
+</div>
+<div class="basic-page__strip" style="background-color: #f7f7f7">
+	<div class="container grid">
+		<div class="col3 col-image" style="background-image: url('https://www.thewp-group.co.uk/wp-content/uploads/2020/02/AE-Heathrow-14LR-900x510.jpg')">
+					</div>
+		<div class="col4">
+			<p><span class="section-subtitle">Comprehensive Fleet Fuel Management</span></p>
+<p>&nbsp;</p>
+<ul>
+<li>Centralised fleet management and authorisation server for all fleet fuel use activities in a region uploads all fleet-oriented data from the stations or tankers and generates centralised reports by fleet, including inventory, reconciliation, orders vs deliveries, trends and forecasting tools</li>
+<li>From the “chip &amp; coil” vehicle recognition units to investment in sustainable fuels, AES has introduced and continues to develop multiple products and technologies to provide a complete refuelling service that addresses both business resilience and sustainability requirements</li>
+</ul>
+<p>&nbsp;</p>
+<p><a class="btn btn--hover" href="https://www.thewp-group.co.uk/blog/a-comprehensive-fuel-management-system/">Read more</a></p>
+		</div>
+	</div>
+</div>
+
+<div class="basic-page__strip" style="background-color: #ffffff">
+	<div class="container grid">
+		<div class="col1">
+			<p><span class="section-subtitle">Award-Winning</span></p>
+<p>&nbsp;</p>
+<ul>
+<li>Airport Energy won the “Working Together Award” at the Team Heathrow Partnership Awards in 2016. Acknowledged the strong working relationships and excellence in service that has developed over recent years</li>
+<li>The Team Heathrow Partnership Awards recognises excellence in Heathrow airport’s supply chain and the services provided by over 400 organisations that keep Heathrow running every day</li>
+</ul>
+<p>&nbsp;</p>
+		</div>
+		<div class="col2 col-image" style="background-image: url('https://www.thewp-group.co.uk/wp-content/uploads/2020/02/large-ASC_6323-002-900x510.jpg')">
+					</div>
+	</div>
+</div>
+<div class="basic-page__strip full-width-video" style="background-color: #ffffff">
+	<div class="container full-width-video__container">
+		<div class="embed-container">
+			<iframe title="Airport Energy- Airport Matters" width="640" height="360" src="https://www.youtube.com/embed/CDGpgVh5NIM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>		</div>
+	</div>
+</div><div class="cta">
+    <div class="container grid">
+        <div class="contact">
+                            <div class="contact__image">
+                                        <img width="125" height="125" src="https://www.thewp-group.co.uk/wp-content/uploads/2019/12/GEOFF-HALL-2MP-e1576671837904-125x125.jpg" class="key-contacts__photo" alt="" srcset="https://www.thewp-group.co.uk/wp-content/uploads/2019/12/GEOFF-HALL-2MP-e1576671837904-125x125.jpg 125w, https://www.thewp-group.co.uk/wp-content/uploads/2019/12/GEOFF-HALL-2MP-e1576671837904-150x150.jpg 150w, https://www.thewp-group.co.uk/wp-content/uploads/2019/12/GEOFF-HALL-2MP-e1576671837904-100x100.jpg 100w, https://www.thewp-group.co.uk/wp-content/uploads/2019/12/GEOFF-HALL-2MP-e1576671837904-85x85.jpg 85w" sizes="(max-width: 125px) 100vw, 125px" />                </div>
+                <div class="contact__info">
+                    <p class="contact__info--title">Key contact</p>
+                    <p class="contact__info--name">Geoff Hall</p>
+                    <p class="contact__info--job">General Manager</p>
+                                            <div class="contact__details">
+                            <i class="fa fa-phone" aria-hidden="true"></i>
+                            <p>0800 980 6172</p>
+                        </div>
+                                                                <a href="mailto:enquiries@thewp-group.co.uk">
+                            <div class="contact__details">
+                                <i class="fa fa-envelope" aria-hidden="true"></i>
+                                                                <p>Email Geoff</p>
+                            </div>
+                        </a>
+                                    </div>
+                                    </div>
+        <div class="quote">
+                        <p><span class="quote__mark quote__mark--before">&ldquo;</span>Our technologies, <span style="color: #008255;">sustainable products </span>&amp; delivery solutions are critical to <span style="color: #20419a;">Airport </span>operations<span class="quote__mark quote__mark--after">&rdquo;</span></p>
+                    </div>
+    </div>
+</div>	</div>
+
+	<div class="container">
+						<p class="section-title">Related content</p>
+				<hr>
+				   <div class="search-results">
+               <div class="article-listing">
+            <div class="article-listing__container">
+                              <a href="https://www.thewp-group.co.uk/blog/a-comprehensive-fuel-management-system/"><div class="article-listing__image" style="background-image: url('https://www.thewp-group.co.uk/wp-content/uploads/2020/02/AE-Heathrow-15LR-550x310.jpg')"></div></a>
+
+               <h2 class="article-listing__title"><a href="https://www.thewp-group.co.uk/blog/a-comprehensive-fuel-management-system/">A comprehensive fuel management system</a></h2>
+                              <p class="article-listing__excerpt">Our delivery services are built upon experience and best-practice fuel management tools that ensure optimal planning, effective management and successful delivery of fuelling solutions to our customers and fleet user partners</p>
+               <a class="btn btn--hover" href="https://www.thewp-group.co.uk/blog/a-comprehensive-fuel-management-system/">Read more</a>
+            </div>
+         </div>
+
+               <div class="article-listing">
+            <div class="article-listing__container">
+                              <a href="https://www.thewp-group.co.uk/blog/airport-energy-products-and-technology/"><div class="article-listing__image" style="background-image: url('https://www.thewp-group.co.uk/wp-content/uploads/2019/07/AE-Technology-Picture-550x310.jpg')"></div></a>
+
+               <h2 class="article-listing__title"><a href="https://www.thewp-group.co.uk/blog/airport-energy-products-and-technology/">Industry leading fuel management technology</a></h2>
+                              <p class="article-listing__excerpt">The necessity to provide fully integrated services to Airports and airside fleet operators has become more defined over the last decade and this clarity in requirements has fuelled our appetite and ultimately our enthusiasm to innovate.
+</p>
+               <a class="btn btn--hover" href="https://www.thewp-group.co.uk/blog/airport-energy-products-and-technology/">Read more</a>
+            </div>
+         </div>
+
+               <div class="article-listing">
+            <div class="article-listing__container">
+                              <a href="https://www.thewp-group.co.uk/blog/fuelling-change-across-uk-airports/"><div class="article-listing__image" style="background-image: url('https://www.thewp-group.co.uk/wp-content/uploads/2020/02/Young-boy-with-plane-550x310.jpg')"></div></a>
+
+               <h2 class="article-listing__title"><a href="https://www.thewp-group.co.uk/blog/fuelling-change-across-uk-airports/">Fuelling Change across UK Airports</a></h2>
+                              <p class="article-listing__excerpt">Our “Fuelling Change” initiative to better understand our customers, markets and industry challenges, guides us in developing market leading solutions and innovations that exceed the needs of today whilst working on the solutions of tomorrow.
+
+</p>
+               <a class="btn btn--hover" href="https://www.thewp-group.co.uk/blog/fuelling-change-across-uk-airports/">Read more</a>
+            </div>
+         </div>
+
+         </div>
+
+
+				</div>
+
+	<div class="cta">
+	<div class="container grid">
+		<div class="cta__container">
+			<h3 class="cta__text">Want to <span class="cta__text--green">find out more</span> about how we are <span class="cta__text--blue">fuelling change</span>?</h3>
+			<a class="cta__chat btn--hover" href="/contact-us">Let's chat</a>
+		</div>
+	</div>
+</div>
+
+	</div><!-- #content -->
+
+	<footer>
+		<div class="container grid">
+			<div class="footer__base">
+				<a href="/"><img src="https://www.thewp-group.co.uk/wp-content/themes/wpgroup/img/logo-white.png" class="footer__logo"></a>
+				<div class="footer__move">
+					<p>A <a href="https://mooveeurope.com/" target="_blank"><img src="https://www.thewp-group.co.uk/wp-content/themes/wpgroup/img/moove.png"></a> Company</p>
+
+				</div>
+				<div class="footer__socials">
+									</div>
+			</div>
+						<div class="footer__contact">
+				<p class="footer__title">Contact</p>
+				<div>			<div class="textwidget"><p>0800 980 6172</p>
+<p>WP Group</p>
+<p>Suite 1, Second Floor, Grosvenor House</p>
+<p>Grosvenor Square</p>
+<p>Southampton</p>
+<p>SO15 2BE</p>
+</div>
+		</div>                <div class="footer__contact__socials">
+				<a href="https://www.linkedin.com/company/wpgroup" target="_blank"><i class="fa fa-linkedin"></i></a>
+				<a href="https://twitter.com/TheWPGroup" target="_blank"><i class="fa fa-twitter"></i></a>
+                </div>
+			</div>
+						<div class="footer__info">
+				<p class="footer__title">About</p>
+        		<div class="menu-footer-menu-1-container"><ul id="menu-footer-menu-1" class="menu"><li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="https://www.thewp-group.co.uk/why-work-with-us/">Why work with us</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="https://www.thewp-group.co.uk/how-we-are-fuelling-change/">How we are fuelling change</a></li>
+<li id="menu-item-417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-417"><a href="https://www.thewp-group.co.uk/our-products/">Products, technologies and services</a></li>
+<li id="menu-item-1198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1198"><a href="https://www.thewp-group.co.uk/how-we-are-fuelling-change/hvo-fuels/">Hydrotreated Vegetable Oil (HVO)</a></li>
+<li id="menu-item-380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-380"><a href="https://www.thewp-group.co.uk/careers/">Careers</a></li>
+<li id="menu-item-625" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-625"><a href="https://www.wp-heating.co.uk/">Domestic heating oil</a></li>
+</ul></div>			</div>
+			<div class="footer__resources">
+				<p class="footer__title">Resources</p>
+        		<div class="menu-footer-menu-2-container"><ul id="menu-footer-menu-2" class="menu"><li id="menu-item-607" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-607"><a href="/wp-content/uploads/2019/12/TermsConditions.pdf">Terms and conditions</a></li>
+<li id="menu-item-375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-375"><a href="https://www.thewp-group.co.uk/privacy-policy/">Privacy policy</a></li>
+<li id="menu-item-374" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-374"><a href="https://www.thewp-group.co.uk/cookie-policy/">Cookie policy</a></li>
+<li id="menu-item-376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-376"><a href="https://www.thewp-group.co.uk/environmental-policy/">Environmental policy</a></li>
+<li id="menu-item-601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-601"><a href="/wp-content/uploads/2020/01/Slavery_and_Human_Trafficking_Policy_v4_2019.pdf">Modern slavery statement</a></li>
+</ul></div>			</div>
+					</div>
+			</footer>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.thewp-group.co.uk\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thewp-group.co.uk/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.7'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LdAjs0UAAAAAOjimncy2vFSEL1pdKqnP_QKZDuF&#038;ver=3.0'></script>
+<script type='text/javascript' src='https://www.thewp-group.co.uk/wp-content/themes/wpgroup/js/all.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.thewp-group.co.uk/wp-core/wp-includes/js/wp-embed.min.js?ver=5.4.1'></script>
+<script type="text/javascript">
+( function( grecaptcha, sitekey, actions ) {
+
+	var wpcf7recaptcha = {
+
+		execute: function( action ) {
+			grecaptcha.execute(
+				sitekey,
+				{ action: action }
+			).then( function( token ) {
+				var forms = document.getElementsByTagName( 'form' );
+
+				for ( var i = 0; i < forms.length; i++ ) {
+					var fields = forms[ i ].getElementsByTagName( 'input' );
+
+					for ( var j = 0; j < fields.length; j++ ) {
+						var field = fields[ j ];
+
+						if ( 'g-recaptcha-response' === field.getAttribute( 'name' ) ) {
+							field.setAttribute( 'value', token );
+							break;
+						}
+					}
+				}
+			} );
+		},
+
+		executeOnHomepage: function() {
+			wpcf7recaptcha.execute( actions[ 'homepage' ] );
+		},
+
+		executeOnContactform: function() {
+			wpcf7recaptcha.execute( actions[ 'contactform' ] );
+		},
+
+	};
+
+	grecaptcha.ready(
+		wpcf7recaptcha.executeOnHomepage
+	);
+
+	document.addEventListener( 'change',
+		wpcf7recaptcha.executeOnContactform, false
+	);
+
+	document.addEventListener( 'wpcf7submit',
+		wpcf7recaptcha.executeOnHomepage, false
+	);
+
+} )(
+	grecaptcha,
+	'6LdAjs0UAAAAAOjimncy2vFSEL1pdKqnP_QKZDuF',
+	{"homepage":"homepage","contactform":"contactform"}
+);
+</script>
+
+		<!-- Cookie Notice plugin v1.3.1 by Digital Factory https://dfactory.eu/ -->
+		<div id="cookie-notice" role="banner" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(0,0,0,1);"><div class="cookie-notice-container" style="color: #fff;"><span id="cn-notice-text" class="cn-text-container">We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button btn btn--hover">Accept</a></span><a href="javascript:void(0);" id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon"></a></div>
+			
+		</div>
+		<!-- / Cookie Notice plugin --></body>
+</html>
